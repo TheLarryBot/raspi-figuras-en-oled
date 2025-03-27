@@ -19,8 +19,6 @@
 | Pantalla OLED | SSD1306 128x64 (I2C) |
 | Cableado | Jumpers y protoboard |
 
-![Diagrama de conexión](https://i.imgur.com/JQ6W0gP.png)
-
 ## 🔧 Instalación paso a paso
 
 ### 1. Instalar dependencias del sistema
