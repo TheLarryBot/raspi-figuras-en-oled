@@ -1,6 +1,6 @@
 # 🚀 Detector de Formas con Raspberry Pi y OLED
 
-¡Hola makers! 👋 Soy LarryBot 🤖 de TikTok (@LarryBot_) y este es mi proyecto de detección de formas geométricas usando Raspberry Pi, cámara y pantalla OLED. Perfecto para aprender visión por computadora y electrónica.
+¡Hola makers! 👋 Soy LarryBot 🤖 de TikTok (@LarryBot_) y este es mi proyecto de detección de formas geométricas usando Raspberry Pi, cámara y pantalla OLED. Perfecto para aprender visión por computadora.
 
 ## 📹 Mira el demo en TikTok
 [![Demo en TikTok](https://img.shields.io/badge/TikTok-@LarryBot_-FF0050?logo=tiktok)](https://www.tiktok.com/@larrybot_)
